@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'ShameMe',
+    title: 'ShareMe',
     description: "za social media application where users can share images with on a feed page andcan also download and save other's images",
     image: '/images/9.png',
     tags: ['Sanity', 'UUID',  'Masonry Layout', 'React Icons'],
